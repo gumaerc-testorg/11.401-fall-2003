@@ -5,6 +5,7 @@ file: /courses/11-401-introduction-to-housing-community-and-economic-development
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: memo_assign1.pdf
 uid: bfd05da1-6aeb-0740-ec09-66ed6dfcbed9
 ---
 First memo assignment.
-
