@@ -2,6 +2,7 @@
 content_type: resource
 description: Completed memo assignment.
 file: /courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/3ffab0949cd35716ae45db190debd43d_k_a_memo2.pdf
+file_size: 193471
 file_type: application/pdf
 learning_resource_types:
 - Assignments
