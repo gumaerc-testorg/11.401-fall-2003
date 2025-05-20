@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Overview of memo assignments.
-file: /ol-ocw-studio-app/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/2aa2fc0becccda69ea86c6fde7827869_assign_over.pdf
+file: /courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/2aa2fc0becccda69ea86c6fde7827869_assign_over.pdf
 file_size: 68162
 file_type: application/pdf
 learning_resource_types:

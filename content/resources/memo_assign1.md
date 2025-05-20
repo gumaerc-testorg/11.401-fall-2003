@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: First memo assignment.
-file: /ol-ocw-studio-app/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/bfd05da16aeb0740ec0966ed6dfcbed9_memo_assign1.pdf
+file: /courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/bfd05da16aeb0740ec0966ed6dfcbed9_memo_assign1.pdf
 file_size: 92828
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Third Memo Assignment.
-file: /ol-ocw-studio-app/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/f6cd334c4bf329f7798c2818d49229dd_memo_assign3.pdf
+file: /courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/f6cd334c4bf329f7798c2818d49229dd_memo_assign3.pdf
 file_size: 85680
 file_type: application/pdf
 learning_resource_types:
