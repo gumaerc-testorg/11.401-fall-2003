@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Bibliographic citations organized by lecture topic.
-file: /courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/2173a4d7da6307dfdddb00989dd50890_readings.pdf
+file: /ol-ocw-studio-app/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/2173a4d7da6307dfdddb00989dd50890_readings.pdf
 file_size: 55695
 file_type: application/pdf
 learning_resource_types:
