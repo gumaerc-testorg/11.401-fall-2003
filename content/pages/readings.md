@@ -107,7 +107,7 @@ Walker, and Weinheimer. *Community Development In The 1990s.* Washington, DC: Ur
 
 Stoecker, Randy. "The CDC Model of Urban Redevelopment: A Critique and Alternative." *Journal of Urban Affairs* 19, no. 1 (1997): 1-43.
 
-Kubish, Anne. "{{% resource_link "1d34db3c-c855-4ef0-a372-f82a52e9a344" "Comprehensive Community Initiatives: Lessons in Neighborhood Transformation" %}} ." *Shelterforce* no. 85 (1996).
+Kubish, Anne. "[Comprehensive Community Initiatives: Lessons in Neighborhood Transformation](http://www.nhi.org/online/issues/85/compcominit.html) ." *Shelterforce* no. 85 (1996).
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -121,7 +121,7 @@ Castells, Manuel. "Neighborhood Mobilization in San Francisco's Mission District
 
 Delgado, Gary. *Organizing the Movement: The Roots and Growth of ACORN.* Philadelphia: Temple University Press, pp. 13-28, 63-90.
 
-Hertz, Judy. "Organizing for Change: Stories of Success." Paper presented on {{% resource_link "24d11825-169a-42ff-a616-6973ffe201a1" "COMM-ORG" %}}. March 2002.
+Hertz, Judy. "Organizing for Change: Stories of Success." Paper presented on [COMM-ORG](http://comm-org.wisc.edu/papers.htm). March 2002.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -195,9 +195,9 @@ Guest Speaker: Deborah Goddard, Director of Development, Urban Edge and Former D
 
 Keyes, Langley. "Hope 6 in Orchard Park and Mission Main." (Department of Urban Studies and Planning, MIT, 2004).
 
-Jacobson, Louis. "{{% resource_link "b8fb61d6-9ce6-4b4c-872f-104c7216daeb" "High Hopes." %}} " *Government Executive* 1 July 1999.
+Jacobson, Louis. "[High Hopes.](https://www.govexec.com/magazine/1999/07/high-hopes/6054/) " *Government Executive* 1 July 1999.
 
-National Housing Law Project, et al. False Hope: A Critical Assessment of HOPE 6. (June 2002). ({{% resource_link "039e997d-a2c7-4ab2-a30d-fa9d8fed98bb" "PDF" %}})
+National Housing Law Project, et al. False Hope: A Critical Assessment of HOPE 6. (June 2002). ([PDF](https://www.nhlp.org/files/FalseHOPE.pdf))
 
 {{< tdclose >}}{{< tdopen >}}
  
